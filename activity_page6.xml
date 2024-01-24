@@ -53,7 +53,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="260dp"
-            android:text="Ronald could not move and"
+            android:text=" "
             android:id="@+id/Character"
             android:textSize="17dp"
             android:textStyle="bold"
