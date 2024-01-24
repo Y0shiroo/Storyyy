@@ -19,7 +19,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Even before Ronald"
+            android:text="Even before  "
             android:id="@+id/Character"
             android:textSize="17.5dp"
             android:textStyle="bold"
